@@ -1,5 +1,5 @@
 - 👋 hi it's me divyansh but u could 
-just call riz just in case i'm a learning web developer.
+just call me riz just in case i'm a learning web developer.
 so yeah that's all!!!
 
 <!---
